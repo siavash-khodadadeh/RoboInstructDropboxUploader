@@ -1,0 +1,5 @@
+*.pyc
+settings.py
+trajectories
+robo_instruct_uploader
+.idea
